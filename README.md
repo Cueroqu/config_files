@@ -6,3 +6,5 @@ This repo keeps a record of the paths of configuration files and the content of 
 
 * hosts: "/etc/hosts"
 * vimrc: "/usr/share/vim/vimrc"
+* .zshrc: "./~"
+* .bashrc: "./~"
