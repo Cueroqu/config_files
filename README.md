@@ -12,3 +12,4 @@ This repo keeps a record of the paths of configuration files and the content of 
 ## Ubuntu 14.04
 
 * Mysql: "/etc/mysql/my.cnf"
+* vimrc: "~/.vimrc"
