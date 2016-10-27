@@ -26,7 +26,7 @@
 
 **appendix** export reports
 
-    ssh-keygen -t rsa
-    [make .ssh dir in other clients]
-    scp ~/.ssh/id_rsa.pub user@[other hosts]:/home/user/.ssh/uploaded_key.pub
-    ssh user@[other hosts] "echo `cat ~/.ssh/uploaded_key.pub` >> ~/.ssh/authorized_keys"
+    mkdir basic_output
+    cd basic_output
+    /usr/lib/tsung/bin/tsung_stats.pl --stats /home/helpshift/.tsung/log/20140430-1126/tsung.log
+    chromium graph.html
